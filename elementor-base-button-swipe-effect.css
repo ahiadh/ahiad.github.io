@@ -1,0 +1,10 @@
+selector.ahi_fill_btn .elementor-button{
+background:linear-gradient(to left, #000 40% , #D3C4C4 10%, #000 50%);
+background-size:300% 100%;
+background-position:left bottom;
+transition: all 1s ease;
+}
+selector.ahi_fill_btn:hover .elementor-button{
+background-position:right bottom;
+color:#fff !important;
+}
